@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gurez
+ *
+ */
+module SintaxeBasica {
+}
